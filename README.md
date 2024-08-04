@@ -1,7 +1,7 @@
 ![websiteImg](https://github.com/user-attachments/assets/a3b146bf-6232-4e74-bb95-b1f656a511c1)
 
 
-#Shopi
+# Shopi
 Shopi is a static e-commerce website built using HTML and CSS. This project is created to enhance my HTML and CSS skills and to showcase my abilities in front-end development. The website is designed to be simple and easy to understand, making it a great resource for beginners who want to learn and improve their HTML and CSS skills.
 
 ##Pages
