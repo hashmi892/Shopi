@@ -18,7 +18,7 @@ The website includes the following pages:
 # Purpose
 This project is created for beginners to help them understand the basics of HTML and CSS. By exploring the code and structure of Shopi, beginners can gain a better understanding of how to create a simple and responsive website using these technologies.
 
-#Features
+# Features
 Clean and modern design
 Responsive layout
 Easy navigation
